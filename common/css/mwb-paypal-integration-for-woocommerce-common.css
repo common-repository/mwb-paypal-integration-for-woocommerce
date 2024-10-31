@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your common functionality should be
+ * included in this file.
+ */
+ span#mwb-ipn-url-copy {
+    border: 1px dashed #707070;
+    padding: 4px 5px;
+    margin-top: 10px;
+    display: inline-block;
+    color: #4b4b4b;
+}
+button.mwb-ipn-url-copy-to-clipboard {
+    background: #868889;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    padding: 5px 10px;
+    color: #ffffff;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
